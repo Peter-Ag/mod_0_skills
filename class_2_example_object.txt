@@ -1,0 +1,5 @@
+Food Delivery is an object for the instance Delivery
+customer_name {peter agbamuche}
+customer_address {T11d kenneth minimah estate}
+customer_phone {+2347030436669}
+is_deliver {No}
