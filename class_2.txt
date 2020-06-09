@@ -1,0 +1,12 @@
+Class: Delivery
+Attributes:
+customer_name {string}
+customer_address{string}
+customer_phone{string}
+is_deliver{boolean}
+
+Methods:
+getName {modifies the attribute customer_name}
+getAddress {modifies the attribute customer_address}
+getPhone {modifies the attribute customer_phone}
+getDeliver {modifies the attribute is_deliver}
