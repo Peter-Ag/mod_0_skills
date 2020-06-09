@@ -1,0 +1,11 @@
+Class: Beverage
+Attributes
+  beverage_name {string}
+  beverage_cost {float}
+  beverage_discount {integer}
+  beverage_available {boolean}
+Method:
+getCost {modifies the beverage_cost attribute}
+getName {modifies the beverage_name attribute}
+quantity {modifies the beverage_discount attribute}
+placeOrder {modifies the beverage_available attribute}
