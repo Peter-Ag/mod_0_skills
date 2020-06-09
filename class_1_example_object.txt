@@ -1,0 +1,11 @@
+Tequila is an instance of Beverage
+ beverage_name (Tequila)
+ beverage_available (yes)
+ beverage_cost (1.50)
+ beverage_discount(0)
+
+ beverage_name.getName
+ beverage_available.placeOrder
+ beverage_cost.getCost
+ beverage_discount.quantity
+ 
