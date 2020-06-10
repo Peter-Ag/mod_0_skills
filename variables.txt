@@ -1,0 +1,9 @@
+food = "sushi"
+is_delicious = yes
+food = "fried rice"
+num2 = 20
+num7 = 60
+quotient = num7/num2
+songs = ["jazz","rock","pop","R&B"]
+songs.pop()
+food.size
